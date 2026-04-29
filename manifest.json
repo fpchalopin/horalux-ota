@@ -1,8 +1,9 @@
 {
-  "version": "1.0.3",
-  "url": "https://fpchalopin.github.io/horalux-ota/firmware-1.0.3.bin",
-  "sha256": "d86b599efe7f714859e47e97b74fa09204964377452cf77c053f25e94be74b89",
-  "size": 1707232,
-  "min_version": "1.0.0",
-  "changelog": "Corrections mineures."
+  "version": "1.0.5",
+  "url": "https://fpchalopin.github.io/horalux-ota/firmware-1.0.5.bin",
+  "sha256": "8f9156ad0f0575e05ead3f9757b25a018b02560e18da8ccb0cc34c1c631eea23",
+  "size": 1711744,
+  "min_version": "1.0.4",
+  "changelog": "Test OTA depuis 1.0.4.",
+  "signature": "3045022100ae2b02dcb609b8561214de0748fd5678087fc55adef65d5d373fd56c2e9d7ad702207855b57a119b126dfd2b5ae5ba09371983c295d3934f6211ac0a3c67c1912fe1"
 }
