@@ -1,9 +1,9 @@
 {
-  "version": "1.0.6",
-  "url": "https://fpchalopin.github.io/horalux-ota/firmware-1.0.6.bin",
-  "sha256": "529022c97a02d4b342fa20b196b1783f49cff921b3a9ae485c9314224e79dc06",
+  "version": "1.0.7",
+  "url": "https://fpchalopin.github.io/horalux-ota/firmware-1.0.7.bin",
+  "sha256": "bbafc24912c12ae327cbc9f0ff74a8d69b75beb4c4c77d31611e778b34d80dbd",
   "size": 1712096,
-  "min_version": "1.0.4",
-  "changelog": "Fix : ecran rallume a la connexion BLE, plus de pastille noire sur PIN, OTA early-validate pour eviter rollback.",
-  "signature": "3045022100865af2632ad393e752211187aa443977b398e665a9e652c9405223d198d8f0e602200876a408e34bdd0d20d97ec2cf9649e1a33c26c1d185dc97459010ade14fb038"
+  "min_version": "1.0.6",
+  "changelog": "Test OTA depuis 1.0.6 (early validate actif).",
+  "signature": "3045022100986b62394d8576e73a79a50e1af883c05512ff9dd64e963fa7427a35c1eff31e02205cb381373fad43161000066ef2da0cfda37a442d2be42710dc372b57bc951d2b"
 }
