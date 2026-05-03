@@ -1,9 +1,19 @@
 {
-  "version": "1.1.1",
-  "url": "https://fpchalopin.github.io/horalux-ota/firmware-1.1.1.bin",
-  "sha256": "9b337e0483bf36dc143e9f48f8d91caa1c6ce231b9f86705b21074aeaf345f92",
-  "size": 1732672,
+  "version": "1.1.2",
   "min_version": "1.1.0",
-  "changelog": "Test OTA depuis 1.1.0 corrigee (finalisation differee au thread principal pour eviter Stack canary).",
-  "signature": "30450220057766cb1aa82c904af34bd1c880ce5f0a41d54dcc08bda360fb06b62c1e8c6d022100e0cfae7f4ac6326aedb153ce2629d5830d5f2e456006a15437bfe1432d85e203"
+  "changelog": "Bins distincts par board (lcd185 / lcd35). Corrige l'OTA cross-board qui empechait le boot apres flash.",
+  "boards": {
+    "lcd185": {
+      "url": "https://fpchalopin.github.io/horalux-ota/firmware-1.1.2-lcd185.bin",
+      "size": 1732704,
+      "sha256": "d5f7073cad76d96d6ec21b728302ad77141ec1e5ad75a8ac6313cc548696999e",
+      "signature": "3046022100cc3074d7846a7cd345e702d6e57cdb56f472d805d08599a04cd6638f8bea818a022100b39564bac617f1ed3786463ce4f18b8a47865ae20665cea9c7e40662f33f56a6"
+    },
+    "lcd35": {
+      "url": "https://fpchalopin.github.io/horalux-ota/firmware-1.1.2-lcd35.bin",
+      "size": 1763872,
+      "sha256": "44e412578343874f8372dd53fced2f1c4aca27a25d17bf48b5eeda862e2aa9c7",
+      "signature": "30440220287a577de26cbc09027e58d7b090e3b37aaf4fa705e2f60108ad2abd20a36aa802203e4d322239358e5c53cb72b270fd52e755ae7040459d76b8c72f8eb01c25f96a"
+    }
+  }
 }
