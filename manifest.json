@@ -1,19 +1,19 @@
 {
-  "version": "1.1.5",
+  "version": "1.1.7",
   "min_version": "1.1.0",
-  "changelog": "TimeBox : zone de tap des presets elargie (toute la hauteur entre les chevrons + mi-gap horizontal de chaque cote, plus de dead zone).",
+  "changelog": "TimeSeq : indicateur visuel du swipe-up (chevron) comme sur l'ecran Clock.",
   "boards": {
     "lcd185": {
-      "url": "https://fpchalopin.github.io/horalux-ota/firmware-1.1.5-lcd185.bin",
-      "size": 1733056,
-      "sha256": "1b469920478808682ea40f9d7a71be72537a022981bb328df79c5939508546a2",
-      "signature": "304402201731cef23bae2200a5b323bd7ef00d40381a07f3d75f8501b659dc22ecf5bc5d02200a1bb21d712f45d91bcb972c680f46adda8e011b7cd9e8a525c66cfaeb6d9a82"
+      "url": "https://fpchalopin.github.io/horalux-ota/firmware-1.1.7-lcd185.bin",
+      "size": 1733344,
+      "sha256": "20cd96475d7d1be8f52e21331187154048941eb345ea9dfb6b5f10e34b3ed7d1",
+      "signature": "3045022100b29d381fd6dbd7710b403fed1ab40e92a9595f4f83bdebf2f3befc4c91538fb2022041f3c33ef831293b21abb17480673ea8061fdddee6cf617c24f99b64aeb54594"
     },
     "lcd35": {
-      "url": "https://fpchalopin.github.io/horalux-ota/firmware-1.1.5-lcd35.bin",
-      "size": 1764272,
-      "sha256": "cde906c19076a4a7a3b6060305c621d9ca5074d95fd396252a1fc90d5d9c8f21",
-      "signature": "3044022008689e2d428ce115d882ad2c8bbf84dec87b9e7f9a86b0957e0a7d2d8bacf01102200daa05767cc8683060761cf895aa75c9a71052ba99cdcd11065c91f014a61f2c"
+      "url": "https://fpchalopin.github.io/horalux-ota/firmware-1.1.7-lcd35.bin",
+      "size": 1764624,
+      "sha256": "52b4781fee8f32c4232904f8118738deed7d9ab3de05e063e24d367c0288eb27",
+      "signature": "30440220592fec503558f370251a0cbd3abe239f88dedc94b3bb2ff5c8b84e0c5e69589f0220506c77581d84f10db0e29e1495f51b0f9602906a7e224a5e8233d65830d1e99c"
     }
   }
 }
