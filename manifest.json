@@ -1,9 +1,9 @@
 {
-  "version": "1.1.0",
-  "url": "https://fpchalopin.github.io/horalux-ota/firmware-1.1.0.bin",
-  "sha256": "d8d456d3a376b0ae50c6defdc29222370eb9d9fdbc3e888a8122f34137d40c28",
-  "size": 1732544,
-  "min_version": "1.0.7",
-  "changelog": "TimeSeq (sequences de timers avec volume par sequence), nouveau menu home, fix BLE Lumieres/Extra, chevrons de scroll a droite dans Parametres.",
-  "signature": "30450221009a5dda86b88bd657574d7b9fe8c5f1588761340c5639900f3e17979f7dad093002206ae702678d919b4fd84b77a2c54877ee1d24e053d1a7b7d0d1f8fa90fd49fb14"
+  "version": "1.1.1",
+  "url": "https://fpchalopin.github.io/horalux-ota/firmware-1.1.1.bin",
+  "sha256": "9b337e0483bf36dc143e9f48f8d91caa1c6ce231b9f86705b21074aeaf345f92",
+  "size": 1732672,
+  "min_version": "1.1.0",
+  "changelog": "Test OTA depuis 1.1.0 corrigee (finalisation differee au thread principal pour eviter Stack canary).",
+  "signature": "30450220057766cb1aa82c904af34bd1c880ce5f0a41d54dcc08bda360fb06b62c1e8c6d022100e0cfae7f4ac6326aedb153ce2629d5830d5f2e456006a15437bfe1432d85e203"
 }
