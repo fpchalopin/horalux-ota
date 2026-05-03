@@ -1,19 +1,19 @@
 {
-  "version": "1.1.3",
+  "version": "1.1.5",
   "min_version": "1.1.0",
-  "changelog": "Test OTA 1.1.2 -> 1.1.3 (validation chaine multi-board lcd185 / lcd35).",
+  "changelog": "TimeBox : zone de tap des presets elargie (toute la hauteur entre les chevrons + mi-gap horizontal de chaque cote, plus de dead zone).",
   "boards": {
     "lcd185": {
-      "url": "https://fpchalopin.github.io/horalux-ota/firmware-1.1.3-lcd185.bin",
-      "size": 1732704,
-      "sha256": "8c239239e8116320e75c0675e116032e86c8b9366a1a8deeb1df8c58cd940040",
-      "signature": "3044022064014d912b39c4fbdd0b9956c28d0596a1b8c3a30ad2b0b3da591fb82fc4aa42022074d9c36b063b21ec35309ccd1287f869cd86ab828011dd95702edcd8fc734bfc"
+      "url": "https://fpchalopin.github.io/horalux-ota/firmware-1.1.5-lcd185.bin",
+      "size": 1733056,
+      "sha256": "1b469920478808682ea40f9d7a71be72537a022981bb328df79c5939508546a2",
+      "signature": "304402201731cef23bae2200a5b323bd7ef00d40381a07f3d75f8501b659dc22ecf5bc5d02200a1bb21d712f45d91bcb972c680f46adda8e011b7cd9e8a525c66cfaeb6d9a82"
     },
     "lcd35": {
-      "url": "https://fpchalopin.github.io/horalux-ota/firmware-1.1.3-lcd35.bin",
-      "size": 1763872,
-      "sha256": "ad8dfca3a0d144ce2dbbba158a3d2e7f893336fdf0dd53fab5a768146d277cd8",
-      "signature": "3045022100a2e50b493afb653c4649584dbf372997c30bf26a6f33bacf0e695b39d75c5c44022042b4d70b114874657f1689340848645c2cf26a62d5b9aab34e9c73c503180317"
+      "url": "https://fpchalopin.github.io/horalux-ota/firmware-1.1.5-lcd35.bin",
+      "size": 1764272,
+      "sha256": "cde906c19076a4a7a3b6060305c621d9ca5074d95fd396252a1fc90d5d9c8f21",
+      "signature": "3044022008689e2d428ce115d882ad2c8bbf84dec87b9e7f9a86b0957e0a7d2d8bacf01102200daa05767cc8683060761cf895aa75c9a71052ba99cdcd11065c91f014a61f2c"
     }
   }
 }
